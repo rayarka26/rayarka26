@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN, DSA**
 
-- 👨‍💻 All of my projects are available at [https://arkapravaray-portfolio.netlify.app/](https://arkapravaray-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/rayarka26)
 
-- 💬 Ask me about **ReactJS, NodeJS, DSA**
+- 💬 Ask me about **ReactJS, NodeJS, SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
